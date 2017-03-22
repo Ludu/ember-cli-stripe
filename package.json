@@ -24,6 +24,9 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/sweettooth/ember-cli-stripe",
+  "dependencies": {
+    "ember-cli-babel": "^5.1.7",
+  },
   "devDependencies": {
     "body-parser": "^1.2.0",
     "broccoli-asset-rev": "0.3.1",
